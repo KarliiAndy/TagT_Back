@@ -1,1 +1,1 @@
-web: java -jar -Dserver.port=$PORT build/libs/TagT_Back-0.0.1-SNAPSHOT.jar
+web: java -jar -Dserver.port=$PORT build/libs/tagTalentApplication-0.0.1-SNAPSHOT.jar
